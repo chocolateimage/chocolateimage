@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chocolateimage
-- 👀 I’m interested in Programming, Trains
+- 👀 I’m interested in programming and trains
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
+- 📷 I'm making a extension called "YouTube Extended" https://github.com/chocolateimage/youtube_extended
 - 📫 How to reach me chocolateimage@protonmail.com
 
 <!---
