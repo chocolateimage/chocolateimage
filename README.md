@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chocolateimage
 - 👀 I’m interested in programming and trains
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning how to make the website [playlook.de]playlook.de better
 - 📷 I'm making a extension called "YouTube Extended" https://github.com/chocolateimage/youtube_extended
 - 📫 How to reach me chocolateimage@protonmail.com
 
