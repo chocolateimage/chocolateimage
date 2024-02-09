@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chocolateimage
+- 👋 Hi, I’m @chocolateimage and I am also available here: https://playlook.de/user/chocolateimage
 - 👀 I’m interested in programming and trains
-- 🌱 I’m currently learning how to make the website https://playlook.de better
-- 📷 I'm making a extension called "YouTube Extended" https://github.com/chocolateimage/youtube_extended
-- 📫 How to reach me chocolateimage@protonmail.com
-
-<!---
-chocolateimage/chocolateimage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📷 If you want to make a custom community for free, try out https://playlook.de/
+- 📫 How to reach me: chocolateimage@protonmail.com
